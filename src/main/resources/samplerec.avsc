@@ -1,0 +1,18 @@
+{
+ "type": "record",
+ "name": "samplerec",
+ "fields": 
+  [{
+   "name": "id", 
+   "type": "int"
+  }, 
+  {
+   "name": "name",
+   "type": "string"
+  },
+  {
+   "name": "fdatetime",
+   "type": "string"
+  }
+ ]
+}
